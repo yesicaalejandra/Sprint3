@@ -1,0 +1,13 @@
+body {
+background-image: url(imag6.jpg.jpg);
+background-size: 100vw 100vh;
+background-attachment: fixed;
+margin: 0;
+}
+
+.bg-light {
+    background-color: #620085!important;
+  }
+@@media (min-width:450px) and (max-width:770px) {
+
+  }
